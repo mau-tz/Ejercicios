@@ -1,0 +1,3 @@
+- Las operaciones de asignación, módul y division logran realizarse en tiempo constante.
+- En la segunta sección de condicionales, se considera el peor caso. Se debe comparar si el primer if es correcto y lo interno, o que se considere el if y else if más las instrucciones del ultimo. Esto también es constante.
+- En total, temenos un algoritmo O(1).

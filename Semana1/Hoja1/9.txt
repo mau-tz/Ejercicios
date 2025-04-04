@@ -1,0 +1,3 @@
+- Las asignaciones, operaciones, lectura y escritura demuestra un tiempo constante.
+- El for presenta una operación pow, que puede considerarse constante o log n. Con la última notación, debemos considerer que se repite n veces. Esto tamaño es mayor, por ello se considera su multiplicación con el número de iteraciones, por eso el for tiene una complejidad de n log n.
+- Como resultado, contamos con un algoritmo O(nlog(n)).

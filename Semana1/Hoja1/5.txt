@@ -1,0 +1,3 @@
+- Las asignaciones, escritura y lectura se considera constante.
+- Dependiendo de la entrada, las repeticiones por el while serán mayor. La condicional del while, el if para verificar si el contador es par y el aumento del contador son procesos que se repiten n veces. Por otro lado, la escritura, asignación y condicionales cuando el contador es par se realizan n / 2 veces.
+- Al final, consideramos la mayor complejidad que sería n, por ello es O(n).

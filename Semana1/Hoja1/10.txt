@@ -1,0 +1,3 @@
+- El ingreso de datos puede considerarse como O(1).
+- El bucle for repite n veces el proceso interno, junto a las comparaciones y asignaciones.
+- En total temenos un tiempo de O(n).

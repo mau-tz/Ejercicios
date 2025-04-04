@@ -1,0 +1,3 @@
+- La lectura, asignaciones y funciones como el titulo representan un tiempo constante.
+- El for se realiza el doble de veces a la cantidad ingresada y las operaciones internas son constantes.
+- Como resultado no se considera a la constante que multiplica a n, ya que mientras más aumente n, la multiplicación no se notará en la complejidad. Por ello, la complejidad es O(n).

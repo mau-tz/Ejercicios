@@ -1,0 +1,3 @@
+- Las asignaciones, lectura y escritura son constantes.
+- El for se repite n veces, donde las operaciones internas son constantes.
+- En total, temenos una complejidad de O(n),

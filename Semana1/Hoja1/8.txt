@@ -1,0 +1,3 @@
+- Las asignaciones y lectura obtenemos un tiempo constante.
+- El for depende de la entrada y sus operaciones internas son constantes.
+- En total, obtenemos un algoritmo O(n)
