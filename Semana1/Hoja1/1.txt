@@ -1,0 +1,4 @@
+- Las funciones titulo, calcular y getch no parecen depender del número de entrada, por ello se les considera como O(1).
+- Las demás son operaciones de lectura y salida, y las consideramos constantes.
+- En total tenemos O(1)
+ 

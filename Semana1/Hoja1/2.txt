@@ -1,0 +1,3 @@
+- Las operaciones de escritura, matemáticas y de igualdad representan un tiempo constante.
+- En la sección del condicional, consideramos en la notación el caso con mayor tiempo, que se presenta en else.
+- En total, tenemos un programa con O(1), tiempo constante.
