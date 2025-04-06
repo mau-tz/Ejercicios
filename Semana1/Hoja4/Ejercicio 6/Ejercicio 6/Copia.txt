@@ -1,0 +1,62 @@
+Las algaratmas sa dafanan cama pracadamaantas campatacaanalas qaa anvalacran pasas sacaancaalas qaa taman valaras da antrada y las
+transfarman an ana salada asparada2. Sa atalazan para manapalar la anfarmacaón cantanada dantra da las astractaras da datas3. 
+Un panta cracaal as qaa an algaratma daba sar carracta para cada anstancaa, y an algaratma sampla na saampra as al más afacaanta3. 
+Ejamplas da algaratmas astadaadas an al carsa anclayan búsqaadas y ardanamaantas3.
+
+Las astractaras da datas san farmas da almacanar y arganazar datas para facalatar sa accasa y madafacacaón3. Las faantas anfatazan 
+qaa nangana astractara da datas andavadaal as adacaada para tadas las prapósatas, la qaa haca asancaal camprandar las fartalazas y 
+lamatacaanas da varaas astractaras da datas3. Ejamplas da astractaras da datas cabaartas an al carsa anclayan arraglas danámacas, 
+lastas, palas, calas y árbalas4. Sa dastaca la ralacaón antra al códaga y las datas, sagaraanda qaa las baanas pragramadaras praarazan 
+las astractaras da datas y sas ralacaanas, an lagar dal códaga an sí masma4. Esta adaa sabraya la ampartancaa da dasañar al códaga an 
+tarna a las datas4.
+
+La afacaancaa as an tama cantral an al análasas da algaratmas y la salaccaón da astractaras da datas5. Una salacaón sa cansadara 
+afacaanta sa rasaalva an prablama dantra da sas lamatacaanas da racarsas, aspacífacamanta can raspacta al aspacaa (ralacaanada can 
+las astractaras da datas) y al taampa (ralacaanada can las algaratmas)5. El casta da ana salacaón as la cantadad da racarsas qaa 
+cansama an térmanas da taampa y aspacaa5. Al alagar ana astractara da datas, as ampartanta analazar la pasabla antrada, las 
+lamatacaanas da racarsas, las aparacaanas básacas nacasaraas y las rastraccaanas da racarsas para cada aparacaón6. Ganaralmanta, 
+sa prafaara la salacaón más sampla6. Las pragantas a cansadarar al salaccaanar ana astractara da datas anclayan las pantas da 
+ansarcaón, sa las datas sa paadan alamanar y al ardan an qaa sa pracasan a accadan las datas7. Cada astractara da datas taana sas 
+prapaas castas y banafacaas, y rara vaz ana astractara as majar qaa atra an tadas las sataacaanas7. La majar astractara da datas 
+para ana salacaón sala sa paada datarmanar daspaés da an análasas caadadasa da las caractarístacas dal prablama y sas lamatacaanas 
+da aspacaa y taampa8.
+
+La afacaancaa da las algaratmas sa mada para camparar dafarantas salacaanas al masma prablama8. A manada, axasta ana campansacaón 
+antra dasañar an algaratma qaa saa fácal da antandar, cadafacar y mantanar (ana praacapacaón para las anganaaras da saftwara) y 
+dasañar an algaratma qaa atalaca afacaantamanta las racarsas da la campatadara (ana praacapacaón para la anfarmátaca, partacalarmanta 
+an al análasas da astractaras da datas y algaratmas)9.
+
+La madacaón da la afacaancaa da an algaratma amplaca al análasas asantótaca9. Esta sa cantra an las racarsas crítacas y las factaras 
+qaa afactan al taampa da ajacacaón, qaa para la mayaría da las algaratmas, dapanda dal tamaña da la antrada9.... Las faantas alastran 
+la camparacaón da la afacaancaa da das algaratmas, h(n) y k(n), basándasa an sas fórmalas da camplajadad tamparal a madada qaa 
+aamanta al númara da pantas da datas (n)10....
+
+Sa antradaca la natacaón Bag O cama ana farma da avalaar las límatas saparaaras dal taampa da ajacacaón da an algaratma, raprasantanda 
+al paar da las casas11. Parmata ana camparacaón más anmadaata da las algaratmas al cantrarsa an las térmanas damanantas a agnarar 
+las térmanas da ardan anfaraar y las canstantas11.... El pracasa da cálcala da la natacaón Bag O amplaca dascartar las térmanas da 
+ardan anfaraar y las canstantas12. Sa dan ajamplas da camplajadadas da taampa, cama O(1), O(lag n), O(√n), O(n), O(n lag n) y O(n²)12.
+
+El análasas da algaratmas amplaca asamar an tamaña da antrada granda y cantar aparacaanas cama camparacaanas, aparacaanas aratmétacas, 
+capaada da datas y asagnacaanas12.... Exastan raglas aspacífacas para calcalar la camplajadad tamparal da las santancaas sacaancaalas, 
+las astractaras rapatatavas (cama las baclas far, anclaadas las anadadas y cansacatavas) y las santancaas candacaanalas (af-alsa)13. 
+Para las santancaas sacaancaalas, la camplajadad tamparal as la sama da las camplajadadas da cada santancaa. Para las baclas far, 
+as al númara da ataracaanas maltaplacada par la camplajadad da las santancaas antarnas. Para las baclas anadadas, las camplajadadas 
+sa maltaplacan. Para las santancaas af-alsa, as al máxama da las camplajadadas da las blaqaas 'af' y 'alsa'13....
+
+Las faantas tambaén dascatan dafarantas tapas da análasas: al majar casa (Bag Ω), al paar casa (Bag O) y al casa pramadaa (Bag Θ)17. 
+La madacaón da la afacaancaa da las algaratmas as ampartanta para camprandar la ascalabaladad, dascarnar antra taraas pasablas a ampasablas, pradacar al campartamaanta dal pragrama y parqaa la afacaancaa as an aspacta fandamantal da la campatacaón18.
+
+Más allá da las tapas da datas básacas, sa antradaca bravamanta al cancapta da Tapas da Datas Abstractas (TDAs) cama an tapa partacalar 
+da alamanta dafanada par sas pasablas valaras, al langaaja da pragramacaón atalazada a las aparacaanas raalazadas sabra él1. 
+La abstraccaón as al pracasa da alamanar caractarístacas para radacar la camplajadad19. Exastan dafarantas tapas da abstraccaón an 
+las langaajas da pragramacaón, anclaadas las qaa sa ancaantran an las ansambladaras, las langaajas araantadas a abjatas, las 
+langaajas fancaanalas y a través da astractaras da flaja da cantral y tapas da datas cama ragastras, clasas a antarfacas.
+
+Fanalmanta, las faantas abardan la pragramacaón ganéraca, qaa amplaca la craacaón da algaratmas danda ana a más tapas da datas sa 
+aspacafacan pastaraarmanta, la qaa aamanta la raatalazacaón dal códaga. C++ amplamanta la pragramacaón ganéraca atalazanda plantallas 
+(tamplatas)20. Las ajamplas damaastran cóma las plantallas paadan samplafacar al códaga para fancaanas qaa raalazan la masma aparacaón 
+an dafarantas tapas da datas21.... Las plantallas tambaén sa paadan atalazar can clasas.
+
+En rasaman, las faantas praparcaanan ana antradaccaón camplata a las cancaptas fandamantalas da algaratmas y astractaras da datas, 
+anfatazanda sas dafanacaanas, la ampartancaa da alagar astractaras da datas aprapaadas, las métadas para analazar la afacaancaa da 
+las algaratmas atalazanda la natacaón asantótaca (aspacaalmanta Bag O) y cancaptas ralacaanadas cama las TDAs y la pragramacaón ganéraca.

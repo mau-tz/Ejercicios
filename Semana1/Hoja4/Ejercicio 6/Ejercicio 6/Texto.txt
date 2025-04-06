@@ -1,0 +1,62 @@
+Los algoritmos se definen como procedimientos computacionales que involucran pasos secuenciales que toman valores de entrada y los
+transforman en una salida esperada2. Se utilizan para manipular la información contenida dentro de las estructuras de datos3. 
+Un punto crucial es que un algoritmo debe ser correcto para cada instancia, y un algoritmo simple no siempre es el más eficiente3. 
+Ejemplos de algoritmos estudiados en el curso incluyen búsquedas y ordenamientos3.
+
+Las estructuras de datos son formas de almacenar y organizar datos para facilitar su acceso y modificación3. Las fuentes enfatizan 
+que ninguna estructura de datos individual es adecuada para todos los propósitos, lo que hace esencial comprender las fortalezas y 
+limitaciones de varias estructuras de datos3. Ejemplos de estructuras de datos cubiertas en el curso incluyen arreglos dinámicos, 
+listas, pilas, colas y árboles4. Se destaca la relación entre el código y los datos, sugiriendo que los buenos programadores priorizan 
+las estructuras de datos y sus relaciones, en lugar del código en sí mismo4. Esta idea subraya la importancia de diseñar el código en 
+torno a los datos4.
+
+La eficiencia es un tema central en el análisis de algoritmos y la selección de estructuras de datos5. Una solución se considera 
+eficiente si resuelve un problema dentro de sus limitaciones de recursos, específicamente con respecto al espacio (relacionado con 
+las estructuras de datos) y el tiempo (relacionado con los algoritmos)5. El costo de una solución es la cantidad de recursos que 
+consume en términos de tiempo y espacio5. Al elegir una estructura de datos, es importante analizar la posible entrada, las 
+limitaciones de recursos, las operaciones básicas necesarias y las restricciones de recursos para cada operación6. Generalmente, 
+se prefiere la solución más simple6. Las preguntas a considerar al seleccionar una estructura de datos incluyen los puntos de 
+inserción, si los datos se pueden eliminar y el orden en que se procesan o acceden los datos7. Cada estructura de datos tiene sus 
+propios costos y beneficios, y rara vez una estructura es mejor que otra en todas las situaciones7. La mejor estructura de datos 
+para una solución solo se puede determinar después de un análisis cuidadoso de las características del problema y sus limitaciones 
+de espacio y tiempo8.
+
+La eficiencia de los algoritmos se mide para comparar diferentes soluciones al mismo problema8. A menudo, existe una compensación 
+entre diseñar un algoritmo que sea fácil de entender, codificar y mantener (una preocupación para los ingenieros de software) y 
+diseñar un algoritmo que utilice eficientemente los recursos de la computadora (una preocupación para la informática, particularmente 
+en el análisis de estructuras de datos y algoritmos)9.
+
+La medición de la eficiencia de un algoritmo implica el análisis asintótico9. Esto se centra en los recursos críticos y los factores 
+que afectan el tiempo de ejecución, que para la mayoría de los algoritmos, depende del tamaño de la entrada9.... Las fuentes ilustran 
+la comparación de la eficiencia de dos algoritmos, h(n) y k(n), basándose en sus fórmulas de complejidad temporal a medida que 
+aumenta el número de puntos de datos (n)10....
+
+Se introduce la notación Big O como una forma de evaluar los límites superiores del tiempo de ejecución de un algoritmo, representando 
+el peor de los casos11. Permite una comparación más inmediata de los algoritmos al centrarse en los términos dominantes e ignorar 
+los términos de orden inferior y las constantes11.... El proceso de cálculo de la notación Big O implica descartar los términos de 
+orden inferior y las constantes12. Se dan ejemplos de complejidades de tiempo, como O(1), O(log n), O(√n), O(n), O(n log n) y O(n²)12.
+
+El análisis de algoritmos implica asumir un tamaño de entrada grande y contar operaciones como comparaciones, operaciones aritméticas, 
+copiado de datos y asignaciones12.... Existen reglas específicas para calcular la complejidad temporal de las sentencias secuenciales, 
+las estructuras repetitivas (como los bucles for, incluidos los anidados y consecutivos) y las sentencias condicionales (if-else)13. 
+Para las sentencias secuenciales, la complejidad temporal es la suma de las complejidades de cada sentencia. Para los bucles for, 
+es el número de iteraciones multiplicado por la complejidad de las sentencias internas. Para los bucles anidados, las complejidades 
+se multiplican. Para las sentencias if-else, es el máximo de las complejidades de los bloques 'if' y 'else'13....
+
+Las fuentes también discuten diferentes tipos de análisis: el mejor caso (Big Ω), el peor caso (Big O) y el caso promedio (Big Θ)17. 
+La medición de la eficiencia de los algoritmos es importante para comprender la escalabilidad, discernir entre tareas posibles e imposibles, predecir el comportamiento del programa y porque la eficiencia es un aspecto fundamental de la computación18.
+
+Más allá de los tipos de datos básicos, se introduce brevemente el concepto de Tipos de Datos Abstractos (TDAs) como un tipo particular 
+de elemento definido por sus posibles valores, el lenguaje de programación utilizado o las operaciones realizadas sobre él1. 
+La abstracción es el proceso de eliminar características para reducir la complejidad19. Existen diferentes tipos de abstracción en 
+los lenguajes de programación, incluidos los que se encuentran en los ensambladores, los lenguajes orientados a objetos, los 
+lenguajes funcionales y a través de estructuras de flujo de control y tipos de datos como registros, clases e interfaces.
+
+Finalmente, las fuentes abordan la programación genérica, que implica la creación de algoritmos donde uno o más tipos de datos se 
+especifican posteriormente, lo que aumenta la reutilización del código. C++ implementa la programación genérica utilizando plantillas 
+(templates)20. Los ejemplos demuestran cómo las plantillas pueden simplificar el código para funciones que realizan la misma operación 
+en diferentes tipos de datos21.... Las plantillas también se pueden utilizar con clases.
+
+En resumen, las fuentes proporcionan una introducción completa a los conceptos fundamentales de algoritmos y estructuras de datos, 
+enfatizando sus definiciones, la importancia de elegir estructuras de datos apropiadas, los métodos para analizar la eficiencia de 
+los algoritmos utilizando la notación asintótica (especialmente Big O) y conceptos relacionados como los TDAs y la programación genérica.

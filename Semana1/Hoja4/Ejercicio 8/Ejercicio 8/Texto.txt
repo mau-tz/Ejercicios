@@ -1,0 +1,22 @@
+Los algoritmos se definen como procedimientos computacionales que involucran pasos secuenciales que toman valores de entrada y los
+transforman en una salida esperada. Se utilizan para manipular la informacion contenida dentro de las estructuras de datos.
+Un punto crucial es que un algoritmo debe ser correcto para cada instancia, y un algoritmo simple no siempre es el mas eficiente.
+Ejemplos de algoritmos estudiados en el curso incluyen busquedas y ordenamientos.
+
+Las estructuras de datos son formas de almacenar y organizar datos para facilitar su acceso y modificacion. Las fuentes enfatizan
+que ninguna estructura de datos individual es adecuada para todos los propositos, lo que hace esencial comprender las fortalezas y
+limitaciones de varias estructuras de datos. Ejemplos de estructuras de datos cubiertas en el curso incluyen arreglos dinamicos,
+listas, pilas, colas y arboles. Se destaca la relacion entre el codigo y los datos, sugiriendo que los buenos programadores priorizan
+las estructuras de datos y sus relaciones, en lugar del codigo en si mismo. Esta idea subraya la importancia de diseñar el codigo en
+torno a los datos.
+
+La eficiencia es un tema central en el analisis de algoritmos y la seleccion de estructuras de datos. Una solucion se considera
+eficiente si resuelve un problema dentro de sus limitaciones de recursos, especificamente con respecto al espacio (relacionado con
+las estructuras de datos) y el tiempo (relacionado con los algoritmos). El costo de una solucion es la cantidad de recursos que
+consume en terminos de tiempo y espacio. Al elegir una estructura de datos, es importante analizar la posible entrada, las
+limitaciones de recursos, las operaciones basicas necesarias y las restricciones de recursos para cada operacion. Generalmente,
+se prefiere la solucion mas simple. Las preguntas a considerar al seleccionar una estructura de datos incluyen los puntos de
+insercion, si los datos se pueden eliminar y el orden en que se procesan o acceden los datos. Cada estructura de datos tiene sus
+propios costos y beneficios, y rara vez una estructura es mejor que otra en todas las situaciones. La mejor estructura de datos
+para una solucion solo se puede determinar despues de un analisis cuidadoso de las caracteristicas del problema y sus limitaciones
+de espacio y tiempo.

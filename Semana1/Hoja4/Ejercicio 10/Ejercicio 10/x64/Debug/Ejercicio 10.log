@@ -1,0 +1,6 @@
+﻿  Ejercicio 10.cpp
+D:\UPC\2025-1\Algoritmos y Estructura de Datos\Semana 1\Ejercicios hoja 4\Ejercicio 10\Ejercicio 10\GestorAlumnos.h(159,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Ejercicio%2010.cpp')
+  
+  Ejercicio 10.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Ejercicio 10.vcxproj -> D:\UPC\2025-1\Algoritmos y Estructura de Datos\Semana 1\Ejercicios hoja 4\Ejercicio 10\x64\Debug\Ejercicio 10.exe

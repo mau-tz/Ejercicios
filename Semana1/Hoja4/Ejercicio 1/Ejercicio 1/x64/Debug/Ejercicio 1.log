@@ -1,0 +1,4 @@
+﻿  Ejercicio 1.cpp
+D:\UPC\2025-1\Algoritmos y Estructura de Datos\Semana 1\Ejercicios hoja 4\Ejercicio 1\Ejercicio 1\Ejercicio 1.cpp(77,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Ejercicio 1.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Ejercicio 1.vcxproj -> D:\UPC\2025-1\Algoritmos y Estructura de Datos\Semana 1\Ejercicios hoja 4\Ejercicio 1\x64\Debug\Ejercicio 1.exe

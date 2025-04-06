@@ -1,0 +1,7 @@
+﻿  Ejercicio 2.cpp
+D:\UPC\2025-1\Algoritmos y Estructura de Datos\Semana 1\Ejercicios hoja 4\Ejercicio 2\Ejercicio 2\Ejercicio 2.cpp(49,3): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\UPC\2025-1\Algoritmos y Estructura de Datos\Semana 1\Ejercicios hoja 4\Ejercicio 2\Ejercicio 2\Ejercicio 2.cpp(67,13): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  Ejercicio 2.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Ejercicio 2.vcxproj -> D:\UPC\2025-1\Algoritmos y Estructura de Datos\Semana 1\Ejercicios hoja 4\Ejercicio 2\x64\Debug\Ejercicio 2.exe
