@@ -1,13 +1,11 @@
 /*
 Ejercicios lambda
-Ingresar dos números para luego realizar la suma de estos y poder verificar si el número es
-múltiplo de 3, por ejemplo 34 + 56 = 90, 90 es múltiplo de 3.
+Ingresar dos nÃºmeros para luego realizar la suma de estos y poder verificar si el nÃºmero es
+mÃºltiplo de 3, por ejemplo 34 + 56 = 90, 90 es mÃºltiplo de 3.
 */
 
 #include "pch.h"
 #include <iostream>
-
-using namespace System;
 using namespace std;
 
 // Funcion lambda para verificar si un numero es multiplo de 3
@@ -29,7 +27,7 @@ int main()
 
 	// Verificamos si la suma es multiplo de 3
 	if (VerificarMultiploDeTres(suma)) {
-		cout << suma << " es múltiplo de 3." << endl;
+		cout << suma << " es mÃºltiplo de 3." << endl;
 	}
 	else {
 		cout << suma << " no es mltiplo de 3." << endl;
