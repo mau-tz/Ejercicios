@@ -1,10 +1,9 @@
 #include "pch.h"
 #include <iostream>
-using namespace System;
 using namespace std;
 
-// Desarrollar un algoritmo con recursividad, que permita mostrar lo números Fibonacci de
-// acuerdo a un número ingresado por teclado Ejemplo, 6 = 1 1 2 3 5 8 13 21
+// Desarrollar un algoritmo con recursividad, que permita mostrar lo nÃºmeros Fibonacci de
+// acuerdo a un nÃºmero ingresado por teclado Ejemplo, 6 = 1 1 2 3 5 8 13 21
 
 int numeros[10001];
 
