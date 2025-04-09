@@ -3,7 +3,7 @@
 using namespace System;
 using namespace std;
 
-// Ingresar 1 caracter de tipo char donde permita verificar si es un nÃºmero o letra. 
+// Ingresar 1 caracter de tipo char donde permita verificar si es un número o letra. 
 
 int main()
 {

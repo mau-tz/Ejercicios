@@ -3,7 +3,7 @@
 using namespace System;
 using namespace std;
 
-// Ingresar 3 nÃºmeros de tipo float donde permita indicar si los tres nÃºmeros son iguales o no
+// Ingresar 3 números de tipo float donde permita indicar si los tres números son iguales o no
 
 int main()
 {
