@@ -1,9 +1,8 @@
 #include "pch.h"
 #include <iostream>
-using namespace System;
 using namespace std;
 
-// Desarrollar un algoritmo con recursividad, que permita mostrar si un número es primo.
+// Desarrollar un algoritmo con recursividad, que permita mostrar si un nÃºmero es primo.
 // Ejemplo, 7 es primo.
 
 bool esPrimo(int& num, int divisor) {
