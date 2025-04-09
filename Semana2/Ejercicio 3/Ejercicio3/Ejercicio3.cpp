@@ -1,6 +1,5 @@
 #include "pch.h"
 #include <iostream>
-using namespace System;
 using namespace std;
 
 // Crear un lambda para determinar si la suma de 3 numeros es multiplo de 3

@@ -1,10 +1,9 @@
 #include "pch.h"
 #include <iostream>
-using namespace System;
 using namespace std;
 
-// Ingresar número de 5 dígitos entero que permita verificar si el dígito del centro es un número
-// par, por ejemplo : 34267, el 2 es un número par.
+// Ingresar nÃºmero de 5 dÃ­gitos entero que permita verificar si el dÃ­gito del centro es un nÃºmero
+// par, por ejemplo : 34267, el 2 es un nÃºmero par.
 
 int main()
 {
