@@ -32,7 +32,7 @@ int main()
 
     for (int i = 0; i < cantidad; i++)
     {
-        cout << "Producto N " << cantidad << endl;
+        cout << "Producto N " << i + 1 << endl;
         cout << "--------------------------" << endl;
         cout << "Ingrese el id del producto: ";
         cin >> id; cin.ignore();
@@ -72,11 +72,15 @@ int main()
 			lista.mostrarMayor();
             system("pause");
 			break;
+        case 5:
+            lista.printLista();
+            system("pause");
+            break;
         default:
             break;
         }
         system("cls");
-    } while (opc != 5);
+    } while (opc != 6);
 
     lista.printLista();
 	system("pause");
@@ -89,6 +93,7 @@ void MostrarMenu()
 	cout << "2. Eliminar al final" << endl;
 	cout << "3. Ordenar" << endl;
 	cout << "4. Mostrar mayor" << endl;
-	cout << "5. Salir" << endl;
+    cout << "5. Mostrar lista" << endl;
+	cout << "6. Salir" << endl;
 	cout << "Ingrese una opcion: ";
 }
